@@ -1,0 +1,22 @@
+estacion,conexiones,tiempo_prom_vecinas,es_portal,afluencia_diaria,pct_hora_pico,grupo
+Portal Norte,1,4.0,1,40265,0.446,0
+Toberín,2,3.5,0,12932,0.346,1
+Calle 146,2,3.5,0,11662,0.293,1
+Pepe Sierra,2,3.5,0,14274,0.323,1
+Calle 100,2,4.0,0,11323,0.316,1
+Héroes,2,4.0,0,11332,0.286,1
+Calle 72,2,4.0,0,12348,0.243,1
+Calle 45,2,4.5,0,9516,0.283,1
+Calle 26,3,3.67,0,26353,0.389,2
+Av. Jiménez,3,3.33,0,26731,0.338,2
+Tercer Milenio,1,3.0,0,14110,0.293,1
+De La Sabana,2,3.5,0,12097,0.257,1
+Ricaurte,3,4.0,0,28040,0.383,2
+Pradera,2,5.5,0,10342,0.311,3
+Banderas,2,5.5,0,11135,0.291,3
+Portal Américas,1,5.0,1,35256,0.506,0
+Centro Memoria,2,3.5,0,11980,0.268,1
+CAD,3,5.0,0,32961,0.343,2
+Av. Rojas,2,5.5,0,12300,0.241,3
+Portal El Dorado,1,5.0,1,31943,0.456,0
+Paloquemao,2,4.0,0,13063,0.305,1
